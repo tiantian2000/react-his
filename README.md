@@ -1,6 +1,6 @@
 <h2>项目介绍</h2>
 
-社区医疗助手
+社区医疗助手,这是一个实现住院信息查看的医疗系统的APP
 
 <h2>技术栈</h2>
 React+react-router+ant design
