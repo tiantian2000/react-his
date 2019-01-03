@@ -14,7 +14,7 @@ React+react-router+ant design
 git clone https://github.com/tiantian2000/react-his.git
 
 #切换到项目所在文件夹<br>
-cd react-news
+cd react-his
 
 #安装依赖<br>
 npm install
