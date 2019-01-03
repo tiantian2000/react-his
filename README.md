@@ -7,9 +7,8 @@ React+react-router+ant design
 
 <h2>项目截图<h2>
 <img src="https://github.com/tiantian2000/react-his/blob/master/示例.jpg"/>
-  <img src="https://github.com/tiantian2000/react-his/blob/master/示例1.jpg"/>
-  <img src="https://github.com/tiantian2000/react-his/blob/master/示例2.jpg"/>
-  <img src="https://github.com/tiantian2000/react-his/blob/master/示例3.jpg"/>
+<img src="https://github.com/tiantian2000/react-his/blob/master/示例1.jpg"/>
+<img src="https://github.com/tiantian2000/react-his/blob/master/示例3.jpg"/>
 
 <h2> 运行项目</h2>
 
