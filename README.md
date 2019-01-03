@@ -1,21 +1,18 @@
 <h2>项目介绍</h2>
 
-天天新闻,这是一个关于新闻App的门户网站,所有数据来自网络
+社区医疗助手
 
 <h2>技术栈</h2>
 React+react-router+ant design
 
-<h2>在线访问</h2>
-https://tiantian2000.github.io/react-news/
-
 <h2>项目截图<h2>
-<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例.PNG"/>
-<img src="https://github.com/tiantian2000/react-news/blob/gh-pages/示例1.PNG"/>
+<img src="https://github.com/tiantian2000/react-his/blob/gh-pages/示例.PNG"/>
+<img src="https://github.com/tiantian2000/react-his/blob/gh-pages/示例1.PNG"/>
 
 <h2> 运行项目</h2>
 
 #克隆整个项目到本地<br>
-git clone https://github.com/tiantian2000/react-news.git
+git clone https://github.com/tiantian2000/react-his.git
 
 #切换到项目所在文件夹<br>
 cd react-news
